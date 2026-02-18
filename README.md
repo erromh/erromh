@@ -9,7 +9,7 @@ Software Engineer focused on systems programming, networking and architecture.
 - Software architecture & system design
 
 ## 📌 Tech Stack
-- Languages: C++, C#
+- Languages: C/C++, C#
 - Platforms: Linux, Windows
 - Tools: CMake, Git, Boost.Asio, Qt, Docker
 - Concepts: multithreading, async I/O, IPC, design patterns
